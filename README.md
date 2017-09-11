@@ -1,3 +1,5 @@
 ## Hello World!
 
-Github: [editor on GitHub](http://github.com/tinaswang/) 
+Welcome to my bare-bones site...to be updated soon.
+
+Github: [tinaswang](http://github.com/tinaswang/) 
